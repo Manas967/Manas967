@@ -1,70 +1,166 @@
 # Hi, I'm Manas Tiwari 👋
 
-🎓 **MCA student @ Galgotias University** • 💼 **Actively looking for an Internship** • 🌱 **Currently learning DSA with C++**
+🎓 **MCA Student @ Galgotias University**  
+💼 **Actively looking for Internship opportunities**  
+🌱 **DSA in C++ + building real projects (Python + Node.js)**
 
 ---
 
-## Quick links
+## 🔗 Quick links
 
 - **LinkedIn:** https://linkedin.com/in/manas-tiwari19
 - **Email:** mailto:tmanas221@gmail.com
 
 ---
 
-## About me (Student Developer)
+## 🧭 Table of Contents
 
-I’m a student developer focused on building projects while strengthening my core fundamentals.
-
-- ✅ Building small-to-medium projects to learn real-world development
-- ✅ Improving problem-solving through **Data Structures & Algorithms (C++)**
-- ✅ Exploring **Python automation / scripting** and **JavaScript-based apps**
+- [🚀 About Me](#-about-me-student--full-stack-developer)
+- [🧰 Tech Stack (from my pushed repos)](#-tech-stack-from-my-pushed-repos)
+- [⭐ Featured Projects](#-featured-projects-top-2)
+- [🧠 Libraries / APIs / Databases](#-libraries--apis--databases-from-my-projects)
+- [🎯 Goals & Learning Roadmap](#-goals--learning-roadmap)
+- [📌 Quick Project Links](#-quick-project-links)
+- [📊 GitHub Activity](#-github-activity)
+- [🏆 Trophies](#-trophies)
 
 ---
 
-## Featured projects (from my repositories)
+## 🚀 About Me (Student • Full‑Stack Developer)
 
-### 1) Url_Shortener (JavaScript)
-**Repo:** https://github.com/Manas967/Url_Shortener
+I’m a student developer who learns by building **end-to-end projects** and improving fundamentals.
 
-What I learned / practiced:
-- Building a complete mini-application workflow end-to-end
-- Working with JavaScript project structure and iteration
+### What I’m focused on
 
-### 2) Trade_bot (Python)
-**Repo:** https://github.com/Manas967/Trade_bot
+- **Full‑Stack Development**
+  - **Python apps** (AI + automation + analysis workflows)
+  - **Node.js backend** projects (Express APIs + database integration)
+- **Problem Solving**
+  - Daily/weekly practice of **DSA using C++** to sharpen logic & efficiency
 
-What I learned / practiced:
-- Python automation-style scripting
-- Organizing logic into a reproducible script / tool
+### What I enjoy building
 
-### 3) SUMMYT-AI-ANALYZER (Python)
+- Tools that turn content/data into **useful insights**
+- Automation scripts that connect to **real APIs**
+- Backend services that feel like real products (clean structure, validation, env configs)
+
+💼 **Open to internships** where I can contribute, learn fast, and grow as a full‑stack / backend developer.
+
+---
+
+## 🧰 Tech stack (from my pushed repos)
+
+> This section is based on what is **actually present in my repositories** (dependencies + language detection).
+
+**Languages:** Python • JavaScript • C++  
+**Backend:** Node.js • Express  
+**AI / GenAI:** Google GenAI SDK (Gemini)  
+**Database:** MongoDB (via Mongoose)  
+**Dev/Platform:** Docker • CLI tooling  
+**Common patterns:** Environment configs (`.env`) via `python-dotenv` / `dotenv`
+
+---
+
+## ⭐ Featured Projects (Top 2)
+
+### ⭐ 1) SUMMYT‑AI‑ANALYZER — AI YouTube Video Analyzer (Python + Streamlit)
 **Repo:** https://github.com/Manas967/SUMMYT-AI-ANALYZER
 
-What I learned / practiced:
-- Larger project organization compared to small scripts
-- Experimenting with Python for analysis-style work
+**What it does:** Extracts YouTube transcripts, generates structured summaries, and answers questions strictly from transcript context.
 
-### 4) RockPaperScissor (C++)
+**Stack used (from repo):**
+- **Frontend:** Streamlit
+- **Python libs:** `streamlit`, `python-dotenv`, `youtube-transcript-api`, `google-genai`
+- **AI / API:** Google Gemini via GenAI SDK (env var: `GEMINI_API_KEY`)
+- **Platform:** Docker / Docker Compose
+
+**Highlights:**
+- Transcript extraction + error handling (disabled/missing transcripts)
+- Structured summarization + bilingual output (English/Hindi)
+- Q&A flow based on the extracted transcript
+
+---
+
+### ⭐ 2) Trade_bot — Binance Futures Testnet Trading Bot (Python, CLI)
+**Repo:** https://github.com/Manas967/Trade_bot
+
+**What it does:** A CLI bot to place MARKET/LIMIT orders on **Binance Futures Testnet**, validating inputs before sending requests.
+
+**Stack used (from repo):**
+- **Python libs:** `python-binance`, `python-dotenv`
+- **API:** Binance Futures **Testnet**
+  - Env vars: `BINANCE_API_KEY`, `BINANCE_API_SECRET`
+
+**Highlights:**
+- Validation-first automation (symbol, side, order type, qty, price)
+- Clean CLI usage with reproducible commands
+
+---
+
+## 🧩 Other Projects
+
+### Url_Shortener — URL Shortener Backend (Node.js + Express + MongoDB)
+**Repo:** https://github.com/Manas967/Url_Shortener
+
+**Stack used (from repo):**
+- **Node deps:** `express`, `mongoose`, `dotenv`
+- **Dev tool:** `nodemon`
+- **Database:** MongoDB (via Mongoose)
+
+---
+
+### RockPaperScissor — C++ Mini Game
 **Repo:** https://github.com/Manas967/RockPaperScissor
 
-What I learned / practiced:
-- C++ fundamentals through a complete mini-game
-- Clean input/output handling and basic logic design
+A C++ fundamentals project to practice clean I/O and logic building.
 
 ---
 
-## Tech stack (what I use)
+## 🧠 Libraries / APIs / Databases (from my projects)
 
-**Languages:** C, C++, Python, JavaScript  
-**Web:** HTML, CSS  
-**Databases:** MySQL, Oracle  
-**Tools:** Git, GitHub, Bash
+### Python libraries
+- `streamlit`
+- `python-dotenv`
+- `youtube-transcript-api`
+- `google-genai`
+- `python-binance`
+
+### Node.js libraries
+- `express`
+- `mongoose`
+- `dotenv`
+- `nodemon` (dev)
+
+### APIs / keys I’ve worked with
+- **Google Gemini API** → `GEMINI_API_KEY`
+- **Binance Futures Testnet API** → `BINANCE_API_KEY`, `BINANCE_API_SECRET`
+
+### Databases
+- **MongoDB** (used via Mongoose in Node.js projects)
 
 ---
 
-## GitHub activity
+## 🎯 Goals & Learning Roadmap
 
-> Note: These widgets are generated by public services and update automatically.
+- [ ] Build & deploy a full-stack project (API + DB + hosted)
+- [ ] Add authentication (JWT/session) to a backend project
+- [ ] Improve DSA consistency (arrays → stacks/queues → trees → graphs)
+- [ ] Write cleaner documentation + add tests to at least one repo
+
+---
+
+## 📌 Quick project links
+
+- 🎥 **SUMMYT‑AI‑ANALYZER:** https://github.com/Manas967/SUMMYT-AI-ANALYZER
+- 📈 **Trade_bot:** https://github.com/Manas967/Trade_bot
+- 🔗 **Url_Shortener:** https://github.com/Manas967/Url_Shortener
+- 🎮 **RockPaperScissor:** https://github.com/Manas967/RockPaperScissor
+
+---
+
+## 📊 GitHub activity
+
+> These widgets are generated by public services and update automatically.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manas967&theme=github_dark&hide_border=false)
 
@@ -74,12 +170,12 @@ What I learned / practiced:
 
 ---
 
-## Trophies
+## 🏆 Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Manas967&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## Profile views
+## 👀 Profile views
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=Manas967&icon=0&color=0)](https://visitcount.itsvg.in)

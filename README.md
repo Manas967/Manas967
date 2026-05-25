@@ -1,8 +1,8 @@
 # Hi, I'm Manas Tiwari 👋
 
 🎓 **MCA Student @ Galgotias University**  
-💼 **Actively looking for Internship opportunities**  
-🌱 **DSA in C++ + building real projects (Python + Node.js)**
+🧑‍💻 **Full‑Stack Developer (Python + Node.js)** • Backend APIs • Databases • Automation  
+💼 **Open to Internship opportunities** • 🌱 **DSA in C++**
 
 ---
 

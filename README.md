@@ -65,6 +65,7 @@ I’m a student developer who learns by building **end-to-end projects** and imp
 
 ### ⭐ 1) SUMMYT‑AI‑ANALYZER — AI YouTube Video Analyzer (Python + Streamlit)
 **Repo:** https://github.com/Manas967/SUMMYT-AI-ANALYZER
+🚀 **Live Demo:** [Click here to use the web application](https://summyt-ai-analyzer.streamlit.app/)
 
 **What it does:** Extracts YouTube transcripts, generates structured summaries, and answers questions strictly from transcript context.
 
